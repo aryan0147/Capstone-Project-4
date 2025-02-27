@@ -1,0 +1,8 @@
+[core]
+    remote = origin
+
+[remote "origin"]
+    url = s3://dvc
+    endpointurl = https://dagshub.com/aryan0147/Capstone-Project-4.s3
+    access_key_id = 4811cca6ecd9186e4b925d7c9a95882f29307999 
+    secret_access_key = 4811cca6ecd9186e4b925d7c9a95882f29307999
